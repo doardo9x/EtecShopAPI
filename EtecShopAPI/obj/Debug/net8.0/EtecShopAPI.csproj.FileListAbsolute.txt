@@ -108,3 +108,4 @@ C:\Users\etec\Desktop\EtecShopAPI\EtecShopAPI\bin\Debug\net8.0\ru\Microsoft.Code
 C:\Users\etec\Desktop\EtecShopAPI\EtecShopAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\etec\Desktop\EtecShopAPI\EtecShopAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\etec\Desktop\EtecShopAPI\EtecShopAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\etec\Desktop\EtecShopAPI\EtecShopAPI\obj\Debug\net8.0\EtecShopAPI.sourcelink.json

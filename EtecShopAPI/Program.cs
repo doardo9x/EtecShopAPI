@@ -11,7 +11,6 @@ builder.Services.AddDbContext<AppDbContext>(
     options => options.UseMySql(conexao, servidor)
 );
 
-
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
